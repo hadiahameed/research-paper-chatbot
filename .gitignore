@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.ipynb_checkpoints/
+tmp/
+temp/
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -35,6 +39,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+log.txt
 
 # Unit test / coverage reports
 htmlcov/

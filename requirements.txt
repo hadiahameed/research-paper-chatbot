@@ -1,0 +1,6 @@
+chromadb==0.5.0
+langchain==0.1.17
+sentence-transformers==2.7.0
+unstructured==0.13.6
+streamlit==1.29.0
+openai==1.25.0
